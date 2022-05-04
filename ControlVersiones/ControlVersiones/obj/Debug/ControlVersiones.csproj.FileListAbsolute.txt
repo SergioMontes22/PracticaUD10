@@ -1,0 +1,10 @@
+C:\Users\cobos21706\Desktop\PracticaUD10\ControlVersiones\ControlVersiones\bin\Debug\ControlVersiones.exe.config
+C:\Users\cobos21706\Desktop\PracticaUD10\ControlVersiones\ControlVersiones\bin\Debug\ControlVersiones.exe
+C:\Users\cobos21706\Desktop\PracticaUD10\ControlVersiones\ControlVersiones\bin\Debug\ControlVersiones.pdb
+C:\Users\cobos21706\Desktop\PracticaUD10\ControlVersiones\ControlVersiones\obj\Debug\ControlVersiones.csproj.AssemblyReference.cache
+C:\Users\cobos21706\Desktop\PracticaUD10\ControlVersiones\ControlVersiones\obj\Debug\ControlVersiones.Form1.resources
+C:\Users\cobos21706\Desktop\PracticaUD10\ControlVersiones\ControlVersiones\obj\Debug\ControlVersiones.Properties.Resources.resources
+C:\Users\cobos21706\Desktop\PracticaUD10\ControlVersiones\ControlVersiones\obj\Debug\ControlVersiones.csproj.GenerateResource.cache
+C:\Users\cobos21706\Desktop\PracticaUD10\ControlVersiones\ControlVersiones\obj\Debug\ControlVersiones.csproj.CoreCompileInputs.cache
+C:\Users\cobos21706\Desktop\PracticaUD10\ControlVersiones\ControlVersiones\obj\Debug\ControlVersiones.exe
+C:\Users\cobos21706\Desktop\PracticaUD10\ControlVersiones\ControlVersiones\obj\Debug\ControlVersiones.pdb

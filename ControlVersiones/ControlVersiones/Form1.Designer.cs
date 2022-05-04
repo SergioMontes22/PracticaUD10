@@ -48,6 +48,7 @@ namespace ControlVersiones
             this.bGuardar.TabIndex = 0;
             this.bGuardar.Text = "Guardar";
             this.bGuardar.UseVisualStyleBackColor = true;
+            this.bGuardar.Click += new System.EventHandler(this.bGuardar_Click);
             // 
             // tNombre
             // 

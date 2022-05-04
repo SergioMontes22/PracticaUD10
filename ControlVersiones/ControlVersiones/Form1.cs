@@ -16,5 +16,10 @@ namespace ControlVersiones
         {
             InitializeComponent();
         }
+
+        private void bGuardar_Click(object sender, EventArgs e)
+        {
+            tListaSocios.Text += tNombre.Text + " " + tApellidos.Text + " " + tTelefono.Text + "; ";
+        }
     }
 }
