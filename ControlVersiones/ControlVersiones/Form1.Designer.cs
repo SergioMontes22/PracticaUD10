@@ -48,6 +48,7 @@ namespace ControlVersiones
             this.bGuardar.TabIndex = 0;
             this.bGuardar.Text = "Guardar";
             this.bGuardar.UseVisualStyleBackColor = true;
+            this.bGuardar.Click += new System.EventHandler(this.bGuardar_Click);
             // 
             // tNombre
             // 
@@ -84,9 +85,9 @@ namespace ControlVersiones
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(546, 46);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(49, 13);
+            this.label1.Size = new System.Drawing.Size(32, 13);
             this.label1.TabIndex = 5;
-            this.label1.Text = "Teléfono";
+            this.label1.Text = "Móvil";
             // 
             // label2
             // 
